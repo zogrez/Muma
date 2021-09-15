@@ -1,4 +1,4 @@
 # Muma
 Muma's Site Project
 
-![logo-muma](muma.png)
+![logo-muma](muma-logo.png)
